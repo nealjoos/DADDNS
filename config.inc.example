@@ -1,0 +1,7 @@
+<?php
+return array(
+    "username" => "username",
+    "password" => "password",
+    "url" => "https://myhostingprovider.com:2222",    
+    "domain" => "domain.name.in.admin.panel.to.use"
+);
